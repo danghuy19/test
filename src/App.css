@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.object1 {
+  background-color: pink;
+  width: 1000px;
+  height: 1000px;
+  margin: 0 auto;
+  position: relative;
+}
+.object2 {
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
