@@ -1,0 +1,11 @@
+input.true {
+    background-color: green;
+}
+
+input.false {
+    background-color: red;
+}
+
+small.false {
+    color: red;
+}
